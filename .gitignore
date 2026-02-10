@@ -3,3 +3,10 @@ __pycache__/
 .idea/
 *.iml
 
+#.venv/ → ignores your virtual environment ✅
+ #
+ #__pycache__/ → ignores Python bytecode ✅
+ #
+ #.idea/ → ignores PyCharm project files ✅
+ #
+ #*.iml → ignores PyCharm module files
